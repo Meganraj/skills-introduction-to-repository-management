@@ -8,7 +8,6 @@ env/
 .env           # Where database passwords are stored
 venv/          # Virtual environment for testing
 .venv
-
 # Teacher IDE settings
 .vscode/       # Ms. Rodriguez uses VS Code
 .idea/         # Mr. Chen uses PyCharm
